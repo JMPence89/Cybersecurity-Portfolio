@@ -23,10 +23,22 @@ One thing I really enjoyed about NCL was getting to work through problems that d
 
 ## NCL Score Reports
 
-I'll be including my NCL score reports here to highlight my participation and progress.
+Below are my results from participating in the National Cyber League (NCL) Individual and Team Games.
 
-- **Individual Game Score Report:** [View Report](PASTE_PUBLIC_LINK_HERE)
-- **Team Game Score Report:** [View Report](PASTE_PUBLIC_LINK_HERE)
+<table>
+  <tr>
+    <th>Individual Game</th>
+    <th>Team Game</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/ncl-individual.png" width="400" alt="NCL Individual Game Score Report">
+    </td>
+    <td>
+      <img src="images/ncl-team.png" width="400" alt="NCL Team Game Score Report">
+    </td>
+  </tr>
+</table>
 
 ## What's Next?
 
