@@ -23,22 +23,30 @@ One thing I really enjoyed about NCL was getting to work through problems that d
 
 ## NCL Score Reports
 
+
+## NCL Score Reports
+
 Below are my results from participating in the National Cyber League (NCL) Individual and Team Games.
 
 <table>
   <tr>
-    <th>Individual Game</th>
-    <th>Team Game</th>
+    <th align="center">Individual Game</th>
+    <th align="center">Team Game</th>
   </tr>
   <tr>
-    <td>
-      <img src="images/ncl-individual.png" width="400" alt="NCL Individual Game Score Report">
+    <td align="center">
+      <a href="https://github.com/JMPence89/Cybersecurity-Portfolio/blob/main/ncl-individual.png">
+        <img src="https://raw.githubusercontent.com/JMPence89/Cybersecurity-Portfolio/main/ncl-individual.png" width="400" alt="NCL Individual Game Score Report">
+      </a>
     </td>
-    <td>
-      <img src="images/ncl-team.png" width="400" alt="NCL Team Game Score Report">
+    <td align="center">
+      <a href="https://github.com/JMPence89/Cybersecurity-Portfolio/blob/main/ncl-team.png">
+        <img src="https://raw.githubusercontent.com/JMPence89/Cybersecurity-Portfolio/main/ncl-team.png" width="400" alt="NCL Team Game Score Report">
+      </a>
     </td>
   </tr>
 </table>
+
 
 ## What's Next?
 
